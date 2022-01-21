@@ -21,6 +21,7 @@ public class QueueProject {
      pro.setVisible(true);
      // ProblemType1 probl=new ProblemType1();
      //System.out.println( probl.calculateTimeBalk( "1/4" , "1/6" , "5"));
+     // this coment from git hup 
         
         
     }
